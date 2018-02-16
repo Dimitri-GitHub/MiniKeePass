@@ -7,30 +7,29 @@
 #
 
 # App Name:
-MiniKeePass — Secure Password Manager
+MiniKeePass — Gestionnaire de mot de passe sécurisé
 
 # Description:
-MiniKeePass provides secure password storage on your iOS device that's compatible with KeePass.
+MiniKeePass fournit un stockage sécurisé de vos mots de passe sur votre appareil iOS compatible avec KeePass.
 
-- View, Edit, and Create KeePass 1.x and 2.x files
-- Search for entries from the top of tables like in Mail
-- Key File Support
-- Import/Export files to and from Dropbox using the official Dropbox app or any other cloud storage application
-- Copy password entries to the clipboard for easy entry
-- Open websites in Safari while MiniKeePass runs in the background
-- Prevent unauthorized access to MiniKeePass with a PIN
-- Remember database passwords in the device's secure keychain
-- Optionally clear the clipboard after set time on devices that support background tasks
-- Generate new passwords
-- Integrated web browser with username/password auto-type
+- Voir, éditer, et créer des fichiers KeePass 1.x and 2.x
+- Rechercher des entrées grâce à la barre de recherche intégrée comme dans l'app Mail.
+- Support des fichiers Kee Pass
+- Importer/exporter des fichiers vers et depuis Dropbox à l'aide de l'application officielle Dropbox ou toute autre application de stockage dans le cloud
+- Copie des entrées dans le presse-papiers pour une saisie facilitée
+- Possibilité d'ouvrir des sites web dans Safari pendant que MiniKeePass tourne en tâche de fond
+- Empêche un accès non-autorisé à MiniKeePass avec un code secret
+- Possiblité d'effacer le presse-papier après avoir défini une durée
+- Génère de nouveaux mots de passe
+- Navigateur web intégré avec auto-remplissage du nom d'utilisateur et du mot de passe
 
-MiniKeePass's source code is available for security audit or contribution on GitHub.
+Le code source de MiniKeePass est disponible pour des vérifications de sécurité ou pour contribuer sur GitHub.
 
 # Keywords:
-MiniKeePass,KeePass,Kee Pass,KeyPass,KeePassX,Password,Password Manager,Secure
+MiniKeePass,KeePass,Kee Pass,KeyPass,KeePassX,Mot de passe,Gestionnaire de mots de passe,Sécurité
 
 # What's New in this Version:
 # Version 1.5
-iOS 7 compatible
-Integrated web browser with auto-type
-Bug fixes
+Compatibilité iOS 7
+Navigateur intégré avec auto-remplisage des champs
+Correction de bugs
